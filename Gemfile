@@ -6,3 +6,4 @@ gem 'rake'
 gem 'sqlite3'
 gem 'vcr'
 gem 'webmock'
+newline
