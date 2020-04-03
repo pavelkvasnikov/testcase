@@ -8,3 +8,4 @@ gem 'vcr'
 gem 'webmock'
 newline
 newline
+newline
